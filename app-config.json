@@ -1,12 +1,7 @@
 {
   "android": {
-    "latestVersion": "1.4.2",
+    "latestVersion": "1.4.3",
     "forceUpdate": true,
     "message": "A mandatory update is required to continue using Kprep with Android 16 support and latest features."
-  },
-  "ios": {
-    "latestVersion": "1.0.0",
-    "forceUpdate": false,
-    "message": "A new version of Kprep is available."
   }
 }
