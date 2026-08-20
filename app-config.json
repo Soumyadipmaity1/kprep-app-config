@@ -1,6 +1,6 @@
 {
   "android": {
-    "latestVersion": "1.4.3",
+    "latestVersion": "1.4.2",
     "forceUpdate": true,
     "message": "A mandatory update is required to continue using Kprep with Android 16 support and latest features."
   }
