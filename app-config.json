@@ -1,9 +1,9 @@
 {
   "android": {
-    "latestVersion": "1.5.1",
+    "latestVersion": "1.5.2",
     "minSupportedVersion": "1.4.0",
     "forceUpdate": false,
     "storeUrl": "https://play.google.com/store/apps/details?id=com.kprep",
-    "message": "🚀 A new update (v1.5.1) is available with performance improvements and bug fixes!"
+    "message": "🚀 A new update (v1.5.2) is available with performance improvements and bug fixes!"
   }
 }
