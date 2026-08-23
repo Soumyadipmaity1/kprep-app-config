@@ -1,7 +1,9 @@
 {
   "android": {
-    "latestVersion": "1.4.2",
-    "forceUpdate": true,
-    "message": "A mandatory update is required to continue using Kprep with Android 16 support and latest features."
+    "latestVersion": "1.5.1",
+    "minSupportedVersion": "1.4.0",
+    "forceUpdate": false,
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.kprep",
+    "message": "🚀 A new update (v1.5.1) is available with performance improvements and bug fixes!"
   }
 }
