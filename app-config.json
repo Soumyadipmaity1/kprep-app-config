@@ -1,9 +1,9 @@
 {
  "android": {
-    "latestVersion": "1.5.5",
-    "minSupportedVersion": "1.5.5",
+    "latestVersion": "1.5.8",
+    "minSupportedVersion": "1.5.8",
     "forceUpdate": true,
     "storeUrl": "https://play.google.com/store/apps/details?id=com.kprep",
-    "message": "A critical update (v1.5.5) is required to continue using K-Prep. Please update the app from Google Play Store."
+    "message": "A critical update (v1.5.8) is required to continue using K-Prep. Please update the app from Google Play Store."
   }
 }
