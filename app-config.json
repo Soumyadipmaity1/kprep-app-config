@@ -1,9 +1,9 @@
 {
   "android": {
-    "latestVersion": "2.0.5",
+    "latestVersion": "2.0.6",
     "minSupportedVersion": "2.0.3",
     "forceUpdate": false,
     "storeUrl": "https://play.google.com/store/apps/details?id=com.kprep",
-    "message": "K-Prep v2.0.5 includes PDF viewer fixes, asset optimizations, and performance improvements."
+    "message": "K-Prep v2.0.6 includes PDF viewer fixes, asset optimizations, and performance improvements."
   }
 }
