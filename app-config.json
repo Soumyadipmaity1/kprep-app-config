@@ -1,9 +1,9 @@
 {
   "android": {
-    "latestVersion": "2.0.9",
-    "minSupportedVersion": "2.0.9",
+    "latestVersion": "2.1.0",
+    "minSupportedVersion": "2.1.0",
     "forceUpdate": true,
     "storeUrl": "https://play.google.com/store/apps/details?id=com.kprep",
-    "message": "A mandatory update to K-Prep v2.0.9 is required to continue. Please update now from Google Play Store."
+    "message": "A mandatory update to K-Prep v2.1.0 is required to continue. Please update now from Google Play Store."
   }
 }
