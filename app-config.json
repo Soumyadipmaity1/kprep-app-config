@@ -1,9 +1,9 @@
 {
   "android": {
-    "latestVersion": "2.1.3",
-    "minSupportedVersion": "2.1.3",
+    "latestVersion": "2.1.4",
+    "minSupportedVersion": "2.1.4",
     "forceUpdate": true,
     "storeUrl": "https://play.google.com/store/apps/details?id=com.kprep",
-    "message": "A newer version of K-Prep (v2.1.3) is available with performance enhancements and bug fixes. Please update now from Google Play Store."
+    "message": "A newer version of K-Prep (v2.1.4) is available with performance enhancements and bug fixes. Please update now from Google Play Store."
   }
 }
